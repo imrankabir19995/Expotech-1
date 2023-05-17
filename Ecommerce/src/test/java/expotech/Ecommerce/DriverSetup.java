@@ -11,7 +11,7 @@ public class DriverSetup {
 	public static WebDriver driver;
 	public static String sbc;
 
-	
+	//alu
 	@BeforeSuite
 	public static void setDriver()
 	{
